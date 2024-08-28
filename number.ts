@@ -8,7 +8,7 @@ function number(){
     const seven:number = 7
     const eight:number = 8
     const nine:number = 9
-    const ten:number = 10
+    const zero:number = 0
 }
 function order(){
     const one = [[0][1][0],
@@ -65,7 +65,7 @@ function order(){
                   [0][0][1],
                   [0][0][1]]
     
-    const ten = [[1][1][1],
+    const zero = [[1][1][1],
                  [1][0][1],
                  [1][0][1],
                  [1][0][1],
