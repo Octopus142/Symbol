@@ -1,4 +1,4 @@
-function alpha2(){
+function alphabet2(){
   a = [[1][1][1][0],
        [1][0][1][0],
        [1][1][1][0],
